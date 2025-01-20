@@ -39,9 +39,9 @@ Core Components: Vagrant, VirtualBox, Git Bash, Scripts, Commands
 # II.) Flow of Execution
  1 Begin by setting up the tools mentioned in the Prerequisite Video.
 
-Clone the source code repository.
+ 2 Clone the source code repository.
 
-Navigate to the Vagrant directory (cd into it).
+ 3 Navigate to the Vagrant directory (cd into it).
 
 Spin up the virtual machines using Vagrant.
 
