@@ -36,8 +36,8 @@ Automation Setup Overview
 
 Core Components: Vagrant, VirtualBox, Git Bash, Scripts, Commands
 
-# Flow of Execution
-* 1 Begin by setting up the tools mentioned in the Prerequisite Video.
+# II Flow of Execution
+ 1 Begin by setting up the tools mentioned in the Prerequisite Video.
 
 Clone the source code repository.
 
