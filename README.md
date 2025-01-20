@@ -62,4 +62,6 @@ Core Components: Vagrant, VirtualBox, Git Bash, Scripts, Commands
 
 # Open your browser to verify that everything works as expected.
 
+Author 🧑‍💻: Dany Christel
+
 
