@@ -1,5 +1,5 @@
 # Project II - VProfile Project Setup [LOCAL]
-# I. Project Setup
+# I.) Project Setup
 * About the Project
 The VProfile project is focused on building a multi-tier web application stack that runs seamlessly on your laptop or desktop. It serves as a foundational step, laying the groundwork for upcoming projects. The goal is to simplify the process of setting up and managing local development environments, ensuring a smoother and more efficient workflow.
 
@@ -12,10 +12,10 @@ This project brings together several key services to create a functional runtime
 A comprehensive RunBook and setup guide will assist with the installation, configuration, and troubleshooting of these services.
 
 # The Challenges
-* 1 Making direct changes on real servers is risky and uncomfortable.
-* 2 Setting up a local environment can be complex and frustrating.
-* 3 Routine tasks take too long to complete.
-* 4 The setup process is inconsistent and hard to replicate.
+ 1 Making direct changes on real servers is risky and uncomfortable.
+ 2 Setting up a local environment can be complex and frustrating.
+ 3 Routine tasks take too long to complete.
+ 4 The setup process is inconsistent and hard to replicate.
 
 # The Solution
 To address these challenges, this project adopts a fully automated and repeatable local setup aligned with Infrastructure as Code (IaC) principles. This allows for seamless experimentation and research directly on your local machine.
@@ -36,7 +36,7 @@ Automation Setup Overview
 
 Core Components: Vagrant, VirtualBox, Git Bash, Scripts, Commands
 
-# II Flow of Execution
+# II.) Flow of Execution
  1 Begin by setting up the tools mentioned in the Prerequisite Video.
 
 Clone the source code repository.
