@@ -3,7 +3,7 @@
 * About the Project
 The VProfile project is focused on building a multi-tier web application stack that runs seamlessly on your laptop or desktop. It serves as a foundational step, laying the groundwork for upcoming projects. The goal is to simplify the process of setting up and managing local development environments, ensuring a smoother and more efficient workflow.
 
-* Scenario: Working on a Project
+# Scenario: Working on a Project
 This project brings together several key services to create a functional runtime environment:
 
 - Database Services: MySQL and PostgreSQL handle data storage and management.
