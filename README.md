@@ -12,10 +12,10 @@ This project brings together several key services to create a functional runtime
 A comprehensive RunBook and setup guide will assist with the installation, configuration, and troubleshooting of these services.
 
 # The Challenges
- . 1 Making direct changes on real servers is risky and uncomfortable.
- . 2 Setting up a local environment can be complex and frustrating.
- . 3 Routine tasks take too long to complete.
- . 4 The setup process is inconsistent and hard to replicate.
+ * 1 Making direct changes on real servers is risky and uncomfortable.
+ * 2 Setting up a local environment can be complex and frustrating.
+ * 3 Routine tasks take too long to complete.
+ * 4 The setup process is inconsistent and hard to replicate.
 
 # The Solution
 To address these challenges, this project adopts a fully automated and repeatable local setup aligned with Infrastructure as Code (IaC) principles. This allows for seamless experimentation and research directly on your local machine.
